@@ -1,0 +1,609 @@
+heads:
+  harrypotter:
+    name: "§e#001 §4Harry Potter"
+    lore: "Tu es un sorcier, Harry"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWZhODYzMzAxNTQ5ODFjNmEyZGZhMDJjZTBjNThkY2M2MGY4YTk5NDFkZmMwMDhmYTYxMGExY2E1ZjU5MGE1ZSJ9fX0="
+    rarity: 1
+
+  dumbledore:
+    name: "§e#002 §cDumbledore"
+    lore: "Ce sont nos choix, Harry, qui montrent ce que nous sommes vraiment, beaucoup plus que nos aptitudes."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI3YzI5MGE1Y2Q1ODQ0NWRkYmRjMTFlYTM0OWRmZDc4ZTI5YzI0YTI5ZmFkMGZhMTg0NzIzMTYxOGRiZWIifX19"
+    rarity: 0.5
+
+  hedwige:
+    name: "§e#003 §fHedwige"
+    lore: "C'est chouette ça"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE1OGJmN2E3MTQ2ZGFhYjczNDgzNWJiNDZkNDNiODZiNTRiYjVhMzJiZWQyODY4YzJmNzk2NjE0MTgwZTEifX19"
+    rarity: 1
+
+  trooper:
+    name: "§e#004 §fTrooper"
+    lore: "L'élite des soldats de la Galaxie"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdhODExYWUyMDhjZTE0ODg4ZWVkNzQ2N2I3ODBhNzJlOTQwOGI2ZGNmMDY2MWM4Nzg2NWNjODY4NTUxZTljIn19fQ=="
+    rarity: 1
+
+  darkvador:
+    name: "§e#005 §8Dark Vador"
+    lore: "Luke… Je suis ta mère…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFmNmI5NDBiZDU0ZTlkYjAzY2ZhZTZjMDRhZDUxNDQxN2U2Mzg0NDkyZGZkMGIyYjIxMDc3ODhhZGQ1ZGVhMyJ9fX0="
+    rarity: 0.5
+
+  darkmaul:
+    name: "§e#006 §4Dark Maul"
+    lore: "La douleur ne fait plus partie de mon être !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhlZmJiM2IxZTY1MDQzYzMyYzM0OGVmYzc2NzE3ZTRhN2NmM2U5YWIwZThmYjAzNDY3ZmRmZmJhMTQ4Mjg2MiJ9fX0="
+    rarity: 1
+
+  anakin:
+    name: "§e#007 §bAnakin Skywalker"
+    lore: "Il n'y a pas plus puissant chevalier Jedi que moi !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGNiYmE1NmM0ZmI4NjBmNzA4ZThlNjVkMTFiOWQxZmM4MzI5ODRhNTQwODgwMDQzODEwZTAwZWIwMzgwOTdmZiJ9fX0="
+    rarity: 0.25
+
+  yoda:
+    name: "§e#008 §2Maitre Yoda"
+    lore: "À vos intuitions vous fier, il faut."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ0MTBkNDAzMjEwM2IwNzU1ZmIwMTY3OTEwOWYxMjk5MTE4MjJiNDdiYmU0YjUzM2IyNTYxYzc3ZmNmZDBhZiJ9fX0="
+    rarity: 0.25
+
+  yoshi:
+    name: "§e#009 §aYoshi"
+    lore: "Yooooooooshiiiiiiiii"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTBmYmE0ZGY3NDk1MjZkZjZkMDc0YmUxOTdkY2MwYjNkN2MyOGQ2MmM0NWFhNzI3YzM4NzQ4NDM2OTkzZjVkOSJ9fX0="
+    rarity: 1
+
+  mario:
+    name: "§e#010 §4Mario"
+    lore: "It's mee Marioooo"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk3YjM3Y2Y3NGE4ZTM3NTI0ZTJlZGNkNjQzMjczZGNlOTMxZWE2OGMwNzc5MWYzNmQ1NzJkODAwNDIyODdhNiJ9fX0="
+    rarity: 1
+
+  toad:
+    name: "§e#011 §fT§co§fa§cd"
+    lore: "L'abus de champignons est dangereux pour la santé"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRiMDQ0YTIxMTMxN2RmZjA2ZDM1YzExMGExYThhNTM4YTc0MjcxMmRlYmI4ZDU0OGVmMTA3OGYyNTQyZWE3MCJ9fX0="
+    rarity: 1
+
+  luigi:
+    name: "§e#012 §aLuigi"
+    lore: "Inséparable frère du petit moustachu rouge"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU0YWFjNDBiNzRiYzlhMjU3NThjMTZiOWRjZTYzOWIyNzdjNWRjYTBjMTBjZjI3OTRhMmI2OTE3MTY0ODNiMyJ9fX0="
+    rarity: 1
+
+  luckyblock:
+    name: "§e#013 §eLucky Block"
+    lore: "Quelque chose semble se cacher à l'intérieur…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM0OTcwZWE5MWFiMDZlY2U1OWQ0NWZjZTc2MDRkMjU1NDMxZjJlMDNhNzM3YjIyNjA4MmM0Y2NlMWFjYTFjNCJ9fX0="
+    rarity: 1
+
+  cheep:
+    name: "§e#014 §cCheep"
+    lore: "Poisson Gobeur"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUyNDUxYWRlY2I5MmM0NTRiZDAyMjRiYWU3ODQyODYzYWRlMDA3YTZiZjZjYzE0M2Q3M2VmNzViNTNjYjA1YSJ9fX0="
+    rarity: 1
+
+  bowser:
+    name: "§e#015 §cB§6o§ews§6e§cr"
+    lore: "Amoureux fou de la princesse Peach et kidnappeur à ses heures perdues."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzBlY2ZjZGIzMWViMWYwMzU2MWM0NjIzNGQxMWI5Nzg4MDcyMjc3MDVlMzIyN2RlZGExNDYwZmM4Mjk3NGU0YyJ9fX0="
+    rarity: 1
+
+  ironman:
+    name: "§e#016 §4Iron §6Man"
+    lore: "Si tu ne décides pas de ton destin c'est ton destin qui décide pour toi.<line>  §8- §7Tony Stark"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY1YjY4Yjc3ZWMxZWMyNDUwNjE5MDk0OTkxNjk3NWY4NjZjYWY2ZDg3OTczZGY4YmZlOTA1YWZkZjYzY2RiMCJ9fX0="
+    rarity: 1
+
+  spiderman:
+    name: "§e#017 §4Spider §4Man"
+    lore: "La petite araignée sympa du quartier"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2MwYTUxNjdiMWQxMGM4YmNkNzg4ZDA3MDQyOTdlZWY2ODJhYjdlM2JlOWZhNjQ4MjUxOTlkYmI1ZDU1NmViYiJ9fX0="
+    rarity: 1
+
+  venom:
+    name: "§e#018 §8Venom"
+    lore: "Votre monde n'est pas si laid après tout. Je suis presque désolé de le voir se terminer"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI1NWRmYzcwZTQxZDFhNzdiNGUxZDU5YjU1YTVhYjQ2NzE5NGJmOTRkMzIwYjg2ODI3YWMyNTNmNTdjNjUyYSJ9fX0="
+    rarity: 1
+
+  drstrange:
+    name: "§e#019 §1Dr Strange"
+    lore: "Choisissez vos mots avec sagesse, l'avenir du multivers en dépends."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FmY2NkMTk0ODUyZTUyMmU0Mjc3NjY5YTg0OTFlZjk2M2U3OTE4ZGY4M2JkOWVmMDE2ZGMzZTdmYmJmNDNmNyJ9fX0="
+    rarity: 1
+
+  cptamerica:
+    name: "§e#020 §1Capitaine §cA§fm§ce§fr§ci§fc§ca"
+    lore: "J'ai pas su quoi mettre, désolé Orrys"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EzOGMwMmI5NjcxMWM5MDkwODQ1NGE5N2M2NGYzZjMxMjdkZmU3N2MyZjExZDJlNmViMmI3NmQ2MWUwNjlhNyJ9fX0="
+    rarity: 1
+
+  thanos:
+    name: "§e#021 §aThanos"
+    lore: "Fine, I'll do it myself"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjZDYyYTMyMTllZDM4MWZjOTY1MGEyODVjOTA1OWJmNzBmNzZkMWZjYzY5NTJiNjEwNDIxZjg5ODJjZjY3MCJ9fX0="
+    rarity: 0.75
+
+  wolverine:
+    name: "§e#022 §7Wolverine"
+    lore: "Vous buvez pour oublier ? - Non, je bois pour me souvenir"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzA1NzM3YTgxMTQyYjNkZDRlYWU2ODAyMDE3MWQ0YzQ0MDJjNmZjNDkxOGNlN2IwYmE3NDFlYzJjNmFmZjUifX19"
+    rarity: 1
+
+  antman:
+    name: "§e#023 §6Antman"
+    lore: "Pensez y à deux fois avant d'écraser la fourmis dans la rue"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRkYzRkMTVlNWU0MzRlNjQ0NDRmZGYzZTZkMzgxY2JjODI0NGRkYzk2ZjRmMmVlYzRlMmVmMzNiZThmIn19fQ=="
+    rarity: 1
+
+  hulk:
+    name: "§e#024 §2Hulk"
+    lore: "Vous savez ce qui m'effraie le plus ? C'est quand je ne peux plus lutter, quand je perds tout contrôle."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2NkY2MyMzJjYTRiY2M0MjgyZWNjZDdlYzI1ODQ4ODE2ODFhNWZhNGRlZGJkNWU0YmEyYjhiNDdmMzY5ZGUifX19"
+    rarity: 1
+
+  joker:
+    name: "§e#025 §5Joker"
+    lore: "Et là ça fait…. BOOOOOM"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ2OTRhYzIyMDM0NzE2NThlZmEzMWQ2Zjc3MjcxNzI2ZTYxMmUxZjhhYjhiNDFkNWUwMGY2N2U5ZWY2YmE3YSJ9fX0="
+    rarity: 0.75
+
+  coin:
+    name: "§e#026 §6Coin"
+    lore: "De l'aaaaargent !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjgwOWQyZTY5NjEwZjFlNmI3NWZlMGQ0NTk4ZTQ0MWU1NjAzMjVkMmQ1MmQ5N2NmNjY4NTljNDRmYTNkOGE3OSJ9fX0="
+    rarity: 0.5
+
+  batman:
+    name: "§e#027 §8BatMan"
+    lore: "Ils pensent que je me cache dans l'ombre. Je surveille. Attendant de frapper. Je suis « l'ombre »"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY0NzkzNWZlZTExZTVjMGU1ZDI2ZTNkZjA1OGNiZjA2MzRiNDMwMWYyMGVkZDA2YThkYTU2OTc1NjM5YTY2In19fQ=="
+    rarity: 1
+
+  flash:
+    name: "§e#028 §cFlash"
+    lore: "Plus rapide que l'éclair ! Oh wait…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI1OGFiYjhkNDFjZmU0NjU0ZGZjZjg3ZGYwNTEwZDk3MDViYTk4Zjc4MTgyNDg2M2ZmMmE1MzZkNjAyMjRmNiJ9fX0="
+    rarity: 1
+
+  wanderwoman:
+    name: "§e#029 §dWanderWoman"
+    lore: "La vérité triomphe toujours !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjk3OTc0MmQyY2VmOTAzY2RkOWU1MzJjMjVlMmExZDgzOWEwZjU2ZDczMTRkOGQ2YzU2NDgyNWFlOTdlZWMifX19"
+    rarity: 1
+
+  arrow:
+    name: "§e#030 §8Arrow"
+    lore: "Je ne rate jamais ma cible."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJiYmY4MWEwNGUzYmNlMjYzOTIyNGVjNzk1NzZjNTRjN2JiOWRjNmQ3NzI4NTA2NTVkMWY5Y2JkYWRhYjI0In19fQ=="
+    rarity: 1
+
+  r2d2:
+    name: "§e#031 §bR2D2"
+    lore: "§kBSJAPEIFD §7§o(ceci est un bruit de robot)"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2NmY2Y3YTUwNDI1ZWZlZWU0ZjU0M2Q0YjIyYWExZGI0NmNmNTJlNzAwMzI2ODQ4NDRkMzgwMGY2NGYwNGJlYSJ9fX0="
+    rarity: 0.5
+
+  jawa:
+    name: "§e#032 §6Jawa"
+    lore: "Mombay m'bwa…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjRhNjczYjhiODBiM2IyYWQwNTcwM2QwZGYxMWE3NmE3ODEzMDY1NDJlM2JmYjg3ZmMzMzY5NmUwMGVjYTYzMCJ9fX0="
+    rarity: 1
+
+  ewok:
+    name: "§e#033 §6Ewok"
+    lore: "Originaire de la lune forestière d'Endor."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNiMDRiYzEwNDljOTdmZWY2N2ViYjAxMDZiOTVmMWMyNDNkOTkzNDJhMzJkNmMyMGE2ODgyNzVjZTkwODQzOCJ9fX0="
+    rarity: 1
+
+  trooper2:
+    name: "§e#034 §6Storm §fTrooper"
+    lore: "Soldat de la galaxie."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjNlMWVhZDFiYmEwODRiYjgyM2I1MGIwNWY1ODNjYjk4ZGM3ZDMyYzZkNTM4NzBhNmI2NTZiYzA3ZTgyYmYxOCJ9fX0="
+    rarity: 1
+
+  boba:
+    name: "§e#035 §8Boba"
+    lore: "Mercenaire en action !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjlmMzg1NmI1ZDVkOGM4MGNlNzVjZDJkYzM2ZjI5YmUwYWFjNTBiZGJhZDBhNTM0NTJiNzk1ZWNlYjIwNWQ1NCJ9fX0="
+    rarity: 0.75
+
+  ron:
+    name: "§e#036 §4Ron"
+    lore: "Suivez les araignées… Pourquoi ça ne pouvait pas être « suivez les papillons » ?"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE3ZDZmNzcwOGFhNWMzZTU5ODcwMDRmNGQ2MGFmNGMyZDc0NTRlNWI0NzYxMTI3OWIzZDRmMjhjYWY1NjY1OCJ9fX0="
+    rarity: 1
+
+  hermione:
+    name: "§e#037 §dHermione"
+    lore: "C'est leviOsa, pas leviosA."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTdiNGZhMjU4MWE2NzhlZmZlM2IxZjBkN2U4NjZhZjMyMjJlODRkYWQyNTQ0NmQ3ZWMzZTg3ODZhMzRlIn19fQ=="
+    rarity: 1
+
+  sangoku:
+    name: "§e#038 §6San Goku"
+    lore: "Kamehamehaaaaaaaaaa"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFhYmE4MTE3ZTVhMTUwMmM4NDZkYjE3MGEzNTY1YjFjYzdlYTk3ODgzNThiZTczNWI3NWFlMDE2OWRkYyJ9fX0="
+    rarity: 1
+
+  goku:
+    name: "§e#039 §cGoku"
+    lore: "Tu as peut-être envahi mon esprit et mon corps, mais un Saiyen garde toujours sa fierté"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmYzYTdkNzhjY2RiYzFiYjM3YmNkYTUxMjgwMmQyNGNjYzU2MWJkYjg5OTQ1YzQ3ZjIxZWY0ZDU4ODdhN2MifX19"
+    rarity: 1
+
+  piccolo:
+    name: "§e#040 §2Piccolo"
+    lore: "L'homme vert !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJkYjMxNzQ1M2MzZjI0MTc4MmRhZjk4ZGM2ZmFlYzNhYzU2MzMxOGEzMjRlZmNkNDMxYmE3YTYwNjU3ZjUxMiJ9fX0="
+    rarity: 1
+
+  freezer:
+    name: "§e#041 §fFreezer"
+    lore: "MOUAHAHAHHAHAHA"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTgwMGZjZDMyYTE2YTA5YzY5ZTAzODI5MmZlZTg4Zjk1YjFiMTIzMWUwMzJmZWQxMWFhZTZhMjg2YzNjNTU2NyJ9fX0="
+    rarity: 1
+
+  cell:
+    name: "§e#042 §2Cell"
+    lore: "Bio-organisme humanoïde créé à partir des cellules de Son Gokû, Vegeta, Piccolo, Freezer et du Roi Cold."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTJhMWRkYTdlNzA3NjNmODkwY2IwZDE4ZDk0OWVjMmM5Y2RkY2RiNjQ4ZTcwY2M4NDlhZDljNWQzNTI2ZGNhOSJ9fX0="
+    rarity: 1
+
+  sonic:
+    name: "§e#043 §1So§9ni§bc"
+    lore: "Je suis Sonic : une petite boule bleue dotée d'une super énergie en mode beau gosse."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTcwYTFlN2QyYmJiNmE0MjE5YzlhOTRjMDI3NDk0NjhkMjk0MjhlMGJmMDdkZTI2YTZmMmM0NWUxZTBiZTZhNyJ9fX0="
+    rarity: 1
+
+  bulbizarre:
+    name: "§e#044 §aBulbizarre"
+    lore: "Il y a une graine sur son dos depuis sa naissance. Elle grossit un peu chaque jour."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E2NzFmNTFiNjY4NGM0M2ZmMjJhZDY5YWUxYzVmZmUyNzk3YWE0YjY0ODAzNGEzYTYzOGI0MDY4ZGYwOWQxYyJ9fX0="
+    rarity: 1
+
+  carapuce:
+    name: "§e#045 §2Carapuce"
+    lore: "Quand il rentre son cou dans sa carapace, il peut projeter de l'eau à haute pression."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ViYzBlMDA5ZTA4YmYxMTQ5ZjUwMmJhMjBmYmE4N2NkYWM4NDdkMDJmZjI1ZGZmNTkyMDE4ZGFmN2VlMzcwYyJ9fX0="
+    rarity: 1
+
+  salameche:
+    name: "§e#046 §6Salamèche"
+    lore: "Il préfère ce qui est chaud. En cas de pluie, de la vapeur se forme autour de sa queue."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMxNGI4YWZhZTY0ZTk2YWI2MmYxN2ZhODllMzQyZDBhMjc1NmU1OWE5YmIyYzdhMzFhZTg5MDg3NjM4NTk2ZSJ9fX0="
+    rarity: 1
+
+  pikachu:
+    name: "§e#047 §ePikachu"
+    lore: "Quand il s'énerve, il libère instantanément l'énergie emmagasinée dans les poches de ses joues."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzM1OTlmNmJhZDdkM2Q4NzA1Yzg1ZTBlNjUxNzM5ZjQzNGE2ZDdiZDRlNDM0OGNlZGVjYzA4MDEyYjEwNmI0MSJ9fX0="
+    rarity: 0.5
+
+  vifdor:
+    name: "§e#048 §6Vif d'Or"
+    lore: "Balle la plus importante dans un match de Quidditch"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNmY2ZjM2U4MzhlYWZkMjdlMTdlNzNmZmRmOGYyZDE5M2VkMzc1MWZjNzZmMjU4ZjY1N2YxNjM1ODFkNTgifX19"
+    rarity: 0.5
+
+  hagrid:
+    name: "§e#049 §dHagrid"
+    lore: "Les géants sont très mal perçus dans le monde des sorciers, c'est pour cette raison qu'il dissimule le fait qu'il en soit un, même partiellement."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2MzYzgzNzFiMDIwN2YxYTk4MWQzMGMxMmFlMmJkODBlMjI2Y2Q5MmQzZTE5ODljZDNiMjQ1ODM0YzdjYmY4In19fQ=="
+    rarity: 1
+
+  biereaubeurre:
+    name: "§e#050 §6Bière au beurre"
+    lore: "La bière la plus populaire du monde des sorciers !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNmZTU1MTgyZDc3YWYxODQ3OThlMjJiOGYzNjcyYjM2YTRjMDIxYTE1MjczYWYxZWFlMGUwODk4MGQ3YWM2NiJ9fX0="
+    rarity: 1
+
+  robin:
+    name: "§e#051 §bRobin"
+    lore: "Le meilleur ami de Batman !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY2NDVlNWI1MTA1N2IwNjMzNDE5OTY5ZTgzOWIyODZlYWVlZTI5MDI2NTVhY2UyMzllNTM2NWU2MDcwMzYyNiJ9fX0="
+    rarity: 1
+
+  greenlantern:
+    name: "§e#052 §aGreen §2Lantern"
+    lore: "Il utilise sa bague pour former… toutes sortes de choses."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmRkNmNjNGE0ZWVkMTRlNGE1ODkwNTc3MDc4YzYwMGNjOTUzMDEyYzI3MzI2N2Y3ZTIzZWM3MDg4OTFjZTMxMyJ9fX0="
+    rarity: 1
+
+  martian:
+    name: "§e#053 §2Martian"
+    lore: "Grrrr qu'est ce que je fais là"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ2Yjk1NTY4ZjA4N2ZjZTc5YjNlOGNmM2E2MmJjMzMzNWNkODk1MGNiODk0NWFiYmI5MGY4NjIxZThjYzY0In19fQ=="
+    rarity: 1
+
+  harleyqueen:
+    name: "§e#054 §dHar§fley Qu§9inn"
+    lore: "Quoi ?! Je dois tuer tout le monde ?! … Ah non c'est rien, ce sont mes voix dans la tête."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjMzMGU5ZDEyZTIyZWM3N2EyMzM2ZTFhMjQxMDM4NDVkMWI2MWM1Y2FkNmRkMWE1NGYxMTIwMzUxYWJiNDUzZSJ9fX0="
+    rarity: 0.5
+
+  vegeta:
+    name: "§e#055 §2Vegeta"
+    lore: "Super Sayennnnn !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZjMWQ4OGJlMjUyODE2OGY2N2RhMTZhMTliMTRmMDRlMWU0OTYzYTk5ZGZjYjRlNDlkOTg0YTM1MTMxM2MifX19"
+    rarity: 1
+
+  beerus:
+    name: "§e#056 §5Beerus"
+    lore: "La destruction procède toujours la création."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM2ZDUyZTk3MjlhOTFhY2FlN2M1NGM5MGY4NGIxOTJkNGJmNjliN2YyOGZlNzNiOTMzYjAzMmVjNjNjYWMwNiJ9fX0="
+    rarity: 1
+
+  maitreroshi:
+    name: "§e#057 §fMaitre Roshi"
+    lore: "Eh bien, je suis comme une tortue et vous êtes en partie un poisson, alors que dites-vous que vous et moi allons à l'intérieur pour en apprendre davantage sur notre espèce ?"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmMThiYWM0MGRkMzgyZWFhMmU5N2E5OWUwMDIzZGQzNWNmN2YyOTQ4YjZlM2I3ZThjNGY0ZWFkNDhlMmE4MyJ9fX0="
+    rarity: 1
+
+  ball1:
+    name: "§e#058 §7Ball 1"
+    lore: "1"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDkyOTlkYzAyYzM1ZjFiYzFhNjg5NWQ3ZmMyOGRlNzdjYTg5MGQwNjYzY2VjNWRjZDZlYTg0NjBhZjExMjEifX19"
+    rarity: 1
+
+  ball2:
+    name: "§e#059 §7Ball 2"
+    lore: "2"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2YWM4MmUzYzc0MjdiYmNmMTU4MjFlODgyZDczYWViODBlZWJjYzZiNDU1ODI4MzI4YWViNzBkNzFhIn19fQ=="
+    rarity: 1
+
+  ball3:
+    name: "§e#060 §7Ball 3"
+    lore: "3"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk5OTI1NGE3Y2E4ZDhiYTFmYWRkY2JhYjlkYTMyMzc0OWExYTBmNjVjODlhMDE2ZjY4MjM0Mjc2ODQ5NSJ9fX0="
+    rarity: 1
+
+  ball4:
+    name: "§e#061 §7Ball 4"
+    lore: "4"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE0MzFhNWVlM2JlNzliOGViNTdhYjk1YzhjOTZkN2Q3NTE5MzJkNmRiZDkyNzI3ZjZlMzcyZTdjNWYifX19"
+    rarity: 1
+
+  ball5:
+    name: "§e#062 §7Ball 5"
+    lore: "5"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI3MzI1N2U5YmM0N2JjY2JhZmFhNTQzNzNjYTExYjg3NWU1YWMzNWM5ZDU5NzNiNTgxMDU0Y2M5YmJhODgifX19"
+    rarity: 1
+
+  ball6:
+    name: "§e#063 §7Ball 6"
+    lore: "6"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdmYjZhNWFkYTQ3MDU2YzhiZjk3NTY2NDk4ZjVlYTQxNzMzMzlmYTc4MTljYmNlOTcwMDllOTA1MGRlIn19fQ=="
+    rarity: 1
+
+  ball7:
+    name: "§e#064 §7Ball 7"
+    lore: "7"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxYTdlMTkzZjM3YzJjNTRlMzU4ZjIyYThhMmQwMjg5NzkzZGQzYjJkNmM3OTllODQyNGI5MjZhMzk1MSJ9fX0="
+    rarity: 1
+
+  groudon:
+    name: "§e#065 §cGroudon"
+    lore: "Un Pokémon considéré comme l'avatar des continents."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY2OWZjNzJmYTBjZWEyNTZhNzE4OGMwMjM3ZDg4ODM0M2QyZjE0YThmNTA4MTVhYzU4NzUyZDEyYjJiMTRlZCJ9fX0="
+    rarity: 1
+
+  magicarp:
+    name: "§e#066 §cMagicarp"
+    lore: "Pokémon ressemblant à un poisson rouge avec de grands yeux vitreux au regard absent."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJhZDNjYzZkMzYzMWNhYTg4N2E5MWViYzVlNmE2NWNmMjU3ODAzYzdjN2FjZDU3ZDE5YTBhYzIyZmFlODQwMyJ9fX0="
+    rarity: 1
+
+  absolu:
+    name: "§e#067 §fAbsolu"
+    lore: "Il court par monts et par vaux, rapide comme le vent. Sa corne arquée lui permet de percevoir les signes avant-coureurs des cataclysmes."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIzM2U2Njk1OGY0ZDYwYzkwZGZkZjgwNjljODQ0Y2MwMjNkZGVkNzYxNDhlMTZmMmY3NDk0N2FjZmVhNTRmMSJ9fX0="
+    rarity: 1
+
+  rondoudou:
+    name: "§e#068 §5Rondoudou"
+    lore: "Ronnnnd-douuuudoudoudou."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRiODdlYjM5M2YxMWFkOGM1NmVjMzhmOGY4YmI1YTMxYjVmYTMzZWIxZWZhNWE2NDc1ZDBhOTYyODFlMjU1In19fQ=="
+    rarity: 0.5
+
+  voltorb:
+    name: "§e#069 §cVolt§forb"
+    lore: "Il se déplace en roulant. Si le sol est cabossé, les chocs le font exploser."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RjYzlmYWU5MTU1ZWI5NGRjMWQxNTE5YzQ1MjdiZTQ4ZmNjN2FjZTg5ZWIzNTY2ZmM1MjVmMTk1YmZkMDRmMiJ9fX0="
+    rarity: 1
+
+  deadpool:
+    name: "§e#070 §cDead§4Pool"
+    lore: "Mercenaire défiguré, doté d'une capacité surhumaine de guérison et d'une personnalité bien spéciale qu'on adore."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2IyNzM3NTZlYmZkZTZhNDFiNDhhYzQ2MjZiNDUxYWQzNjRiYjk2YzhmOTcxNzhjMTI4OWY4MWViMmM4NTA3OCJ9fX0="
+    rarity: 1
+
+  thor:
+    name: "§e#071 §fThor"
+    lore: "Thor, le dieu de la foudre et du tonnerre."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlZDUyYTA0ZWRmYzQyOTU5MGMyMWQ1OWQ1MDA1ZTNiYTYyODY2YzUyYWVkODk1ZjFiZTk0ZDdmNjQyYTAxMyJ9fX0="
+    rarity: 1
+
+  gantthanos:
+    name: "§e#072 §6Gant de §aT§ch§ba§6n§5o§es"
+    lore: "Artefact d'un très grand pouvoir. Si on réunit sur lui les six pierres d'infinité, il devient l'un des objets les plus puissants."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDEyMGFiMjA2ZDYxMTY4NGUxODViZDE5ZjgyMGI5MTk3ZDcyYjk4Njk4MjQ3NjEzZmJmZmQwMTkzN2RlNjFhNSJ9fX0="
+    rarity: 1
+
+  groot:
+    name: "§e#073 §2Groot"
+    lore: "Je s'appelle Grooooooot."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU5ZmE1MDY5ZTQyN2FjNWI0Y2M1M2NkNGUxZTc3MjNhYzRjNDZhNDczZDg1MGQ0MTE1ZjExMGYzMGZkY2RmOCJ9fX0="
+    rarity: 1
+
+  cyclope:
+    name: "§e#074 §5Cyclope"
+    lore: "Ne le regardez pas dans les yeux…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZhNjVhYzJlOWFiMWU1Nzg0YjUxYmMyYjlkNGZiMjhjMjcyMWMyYjczNjIxNzAyMzkzNmY1NzY5N2RjNmQ1In19fQ=="
+    rarity: 1
+
+  redhulk:
+    name: "§e#075 §4Hulk Rouge"
+    lore: "Rouge de colère !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc5YzQ2ZWQ4OWQ4ZTZhNWIyOWFlNDI0MTViYWUxNWI0ZTAyNTkwZmUxOTUwNWU5N2JjNDYzNWRkNzY2MzYifX19"
+    rarity: 1
+
+  aquaman:
+    name: "§e#076 §3Aquaman"
+    lore: "Il règne sur les océans."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkNjg2YmE1M2IzMTJlODMyNDI0YTc3ZTZkOTE2YWJhMzBhMzczNDcxNTczZDRmZTQzNDJiOGJiZTBhYyJ9fX0="
+    rarity: 1
+
+  logo:
+    name: "§e#077 §9Logo §cS"
+    lore: "Le symbole officiel de SuperMan !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU0MzVjMzdlZGFmZTE2NWM5MmFlMzczNmUxNWM0NjRhZDYyMWQ2MTIyMDQzNWQxYTM5YWRiNDcwNWZiODg2In19fQ=="
+    rarity: 1
+
+  bat_signal:
+    name: "§e#078 §8Bat §fSignal"
+    lore: "Si vous voyez le signal, c'est qu'il n'est jamais loin…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWMyOTJiYWIxOTY2MDc3ZGNkMWY5OTdmOWVlZDg4MTA3N2I0N2VhNTExM2MxZTk0NWIzOGZiOTIxMGYwIn19fQ=="
+    rarity: 1
+
+  the_spectre:
+    name: "§e#079 §7The Spectre"
+    lore: ""
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM4YTY0MzQzZTIzZmNjMDIxMzA1MTVhNzFkOTk3ODNiNmQ2OTUzNjE1ZThhNmQ1ZjA5ODc5MDhmNjEzZWJlIn19fQ=="
+    rarity: 1
+
+  voldemort:
+    name: "§e#080 §8Voldemort"
+    lore: "§aAvadaaaa§2Kedavraaaaaaa"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE0OGE3ZDk0ZWY1MzE0ZjljY2FmZGI1NDI5ZTVkZmE1YTEyZDliYzUwM2NjODExZDVlNzc0ZjU3ZGE1ZTgwNiJ9fX0="
+    rarity: 0.5
+
+  dobby:
+    name: "§e#081 §aDobby"
+    lore: "Dobby est un elfe.. Libre !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI2MjFlZTcxYmQzMjFhMmQ5Nzk3NjA5NmJkZTJhNTMwZDlmMDdkNmU5NGY5ZGEyYTlmYzQ3MTZkMWMxYThkIn19fQ=="
+    rarity: 1
+
+  livre_de_lhorreur:
+    name: "§e#082 §8Livre de l'horreur"
+    lore: "Il y a dans ce livre…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMxNmE4Yjk2Y2I5YWVlYTUxNDBkZDkzNmM2ZWJiOTY0ZWZjYmZkNzFhZTIxN2Q5ZjcwODg4ZWZiMTRlN2MwIn19fQ=="
+    rarity: 1
+
+  poudre_de_cheminette:
+    name: "§e#083 §7Poudre de Cheminette"
+    lore: "Une poudre servant à se téléporter. A ne pas renifler…"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MwZjc3MzAzMDU2NWQ0ZGEyZmYzZTU3ZmM2OWZmYTcyYzkxMzg1YThjNDVkNGI3ODRjMmQxMmRlMWZkMmI3MyJ9fX0="
+    rarity: 1
+
+  c3po:
+    name: "§e#084 §6C3PO"
+    lore: "Si je te disais la moitié des choses que l'on m'a dites sur Jabba The Hutt, tu me ferais sûrement un court-circuit"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNmYTBjOGI3MDNjMjkxZjgzYWI0ZTA3MGFhZWJhNzM0N2ZmN2VmMWEwNDkyYjZhZTcwYTE3ZDA4NzgzY2YxMSJ9fX0="
+    rarity: 1
+
+  mandalorian:
+    name: "§e#085 §6Mandalorian"
+    lore: "Un des plus grand mercenaire que la galaxie ait connu."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIxNDgxZDFlY2I1YzBhNGYyNjg3NWI4MTdjNzM1YjIyMGRhMDhmODg4YTAyMmZmY2VkY2NjNzNkYTJkZDhiNiJ9fX0="
+    rarity: 1
+
+  clone:
+    name: "§e#086 §7Clone"
+    lore: "Protecteur de la galaxie."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWViZDRmYWMxZWMxY2Y0MWMyYjMzM2UyZmI3YTY5OTk5MzAxOGE4OWQ1YWY3ZTY4YzliNDE4NDRlYzBmOTE4NyJ9fX0="
+    rarity: 1
+
+  luke_skywalker:
+    name: "§e#087 §bLuke Skywalker"
+    lore: "Un des plus grands Jedi."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4MTgxMGJlMDM3ZWQ2MGYxOTI2NzJlN2M0YzE0ZmJlNDFhMGIwMzI1NGE5NDJkNDUyYjc4YjVlNTVhNTI0OCJ9fX0="
+    rarity: 1
+
+  arc_trooper:
+    name: "§e#088 §cArc Trooper"
+    lore: "Un soldat spécialiste en la matière."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTdjNzQwODkwNTU5ZjNjMWM2MGUwNmNhOWYzMjEyODQ0OWM0ZmRiOTgyMjRhMzEwZTg1NThmZGY3MDY2MDU2MSJ9fX0="
+    rarity: 1
+
+  choco_grenouille:
+    name: "§e#089 §dChoco Grenouille"
+    lore: "Du bon chocolat. OH c'est une grenouille ?"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJkMTE0YjMwNWViOWFjOTgxY2IwYmFiZjk3ZjA5OGE3ZDFlODY1NjIzYWMzMzExMTQ5ZmM2MWVkYmRiN2Y2ZSJ9fX0="
+    rarity: 1
+
+  leviator:
+    name: "§e#090 §3Leviator"
+    lore: "Lorsqu'il apparaît, il saccage tout. Sa fureur ne se calme pas tant qu'il n'a pas tout détruit."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYwZGI2NzU0NGY5YzAzYzRkZGU3NjUzY2JjYjhmY2QxZjllYWUyMjU1Zjg1ODkxYWU0NTRmYTcwOGNiZDgzNCJ9fX0="
+    rarity: 1
+
+  amonistar:
+    name: "§e#091 §5Amonistar"
+    lore: "Ses crocs sont capables de broyer la roche, mais il ne peut s'attaquer qu'aux proies à portée de ses tentacules."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcxNzhjNTE3NDVlOTBkMTY4NjA0ZDQ1ODA0ZTU0YmEzZWZlMjJlMzI5ZTFjOWJhZjkzNjg3MDUwNWExZTdmNyJ9fX0="
+    rarity: 1
+
+  roocoups:
+    name: "§e#092 §fRoocoups"
+    lore: "Ce Pokémon est très endurant. Il survole en permanence son territoire pour chasser."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI1NDg1NGNkNDcwYjhmMDhmMjA0OTNiYmI1YWJlNTVkZDEzYzVmYjZmYTNmMzNlYjNiZjJlYzc0MjRjZDc3MiJ9fX0="
+    rarity: 1
+
+  chenipan:
+    name: "§e#093 §aChenipan"
+    lore: "Pour se protéger, il émet par ses antennes une odeur nauséabonde qui fait fuir ses ennemis."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJiZjkwYzVmN2JiYmFiM2UzNWE4YjUzNTA1YzI4MTYxNWQ2YWRjNjU4NzgwOGJkMDA3MDVlZDU0N2IxNGI1YyJ9fX0="
+    rarity: 1
+
+  arcanin:
+    name: "§e#094 §6Arcanin"
+    lore: "Son aboiement est tout simplement majestueux. On ne peut que se prosterner à ses pieds après l'avoir entendu."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiNjZkZmZlMjhjNGYzNjk3YWZhYzg2MGRkMThjNDU3NWJiZWVlZGFiMDE3ODhkMWFiNDE0YTQwNjY2ZWM5NSJ9fX0="
+    rarity: 1
+
+  tuyaux:
+    name: "§e#095 §2Tuyaux"
+    lore: "Un passage secret ?"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJlMDNjYjZmYWVhOTFhNjlhNDY4NGIzMGRkNjJmMWJlZjRmODM0N2NhMjAzNmQxMjhhNzAxMWE1YTUyZDA3OSJ9fX0="
+    rarity: 1
+
+  carapace:
+    name: "§e#096 §2Carapace"
+    lore: "Attention aux pieds !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM1NWYwNWYxOWYwMWY0MTg3OGQxOTY4MDk3ZGRjNGE2YmI5NWU1MjI5MTZhMWM2ODlmNmExNDZiMjM4ODFkZiJ9fX0="
+    rarity: 1
+
+  goomba:
+    name: "§e#097 §6Goomba"
+    lore: "Mignon mais méchant."
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUyZWVmYmQ3OGJiMzhmMTNjN2Y0YjNjZmY3ZjQ4MGRkNTI1MTMwZjRjMWI1NTM1YTRkYWQ1YjEzNGQyYTgyMiJ9fX0="
+    rarity: 1
+
+  boo:
+    name: "§e#098 §fBoo"
+    lore: "Il me fiche la frousse !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE1NjEyMzhiYWNiNTgzYTYwZjlhNTBlNzk0NDZkNGRiNTZkMTgwNGQ3MGE4YTAyNDA3MjcxM2RlYjQ3ZWUxZCJ9fX0="
+    rarity: 1
+
+  princessepeach:
+    name: "§e#099 §dPrincesse Peach"
+    lore: "Marioooo sauve moi !"
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU0MzNlYjA2ODZjOGU0YWRjMDMyNzczZjY5MmNkMGI3OWVhNTEzZDViZDNhYzI3NjQzZGQ4NjFjZTIwMjcifX19"
+    rarity: 1
+
+  menrael:
+    name: "§b#HS §6Organisateur"
+    lore: "Menrael dans toute sa splendeur.<line>  §8- §7Menrael"
+    texture: ""
+    rarity: 0.1
+    owner: "2055a092-ebac-48a1-bca7-52536861647b"
+
+  dynamo:
+    name: "§b#HS §dDéveloppeur"
+    lore: "Un DynamoRed, deux DynamoRed, trois DynamoRed, quatre Dynam… §7§ozZzzZz"
+    texture: ""
+    rarity: 0.1
+    owner: "8eb64864-f8e9-4cc4-a70f-27c1b9a617a0"
+

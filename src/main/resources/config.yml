@@ -1,0 +1,18 @@
+scatter:
+  # World in which heads will be generated
+  world: 'world'
+  # Head generation radius around a player
+  radius: 128
+  # Maximum number of heads per area around a player of previously specified radius
+  maximumPerZone: 5
+  # Areas in which heads will not appear
+  excludedZones:
+    spawn:
+      x1:
+      y1:
+      x2:
+      y2:
+  # Percentage chance of generating a head around a player
+  oneOver: 5
+  # Number of blocks to go through to have the chance to possibly generate a head within the previously specified radius
+  step: 48

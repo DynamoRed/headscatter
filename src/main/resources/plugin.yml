@@ -1,0 +1,17 @@
+name: dHeadScatter
+main: com.dynamored.headscatter.HeadScatter
+version: 1.0.0
+api-version: 1.20
+author: DynamoRed
+description: Head Scatter plugin for HelloMinecraft
+
+commands:
+  headscattercompass:
+    aliases: ["hscompass"]
+    permission: headscatter.givecompass
+  headscattertop:
+    aliases: ["hstop"]
+    permission: headscatter.top
+  headscattergetall:
+    aliases: ["hsgetall"]
+    permission: headscatter.getall
